@@ -55,7 +55,7 @@ object MostObscureSuperheroes {
     //Join two dataset to find result
     val result = supperHeroes.join(one_connections, supperHeroes("id") === one_connections("id"))
 
-    result.select("Name").show()
+    result.select("*").show()
 
     print("The most obscure superhero is: " + result.count())
     spark.stop()
