@@ -1,5 +1,6 @@
 # Spark-Database-Tools-Practice
 ## [Calculating The Average Friends By Age In A Social Network](https://github.com/phuongnhhe150172/Spark-Database-Tools-Practice/tree/main/FriendsByAge/FriendsByAge)
+### Objectives:
 This assignment I worked with Spark RDD, pair RDD
 ### Problem Description:
 Create an object to list the average friends of each age
