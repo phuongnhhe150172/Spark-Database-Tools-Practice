@@ -25,6 +25,19 @@ This assignment I worked with PySpark by Jupyter Notebook on docker platform
 * Calculating raking of each team on each season by window partition by season and order season "asc"
 * Show top1 ranking football
 
+## Cohort Analysis
+### Objectives:
+This assignment I worked with PySpark by Jupyter Notebook on docker platform
+### Problem Description:
+* Read data from the file "/.Data/order/online-retail.csv"
+* Calculate the retention of customers from their first payment
+#### Strategy:
+* Select column InvoiceDate and CustomerID from online_retail_df
+* Find first payment date of each customer
+* Calculating total new customers daily
+* Calculating retained customer following the day after the first payment date
+* Join two results to display number of retained customer by the following day
+
 ## [Calculating The Most Obscure Superheroes DataSet](https://github.com/phuongnhhe150172/Spark-Database-Tools-Practice/tree/main/MostObscureSuperheroDataSet/MostObscureSuperheroDataSet)
 ### Objectives:
 This assignment I worked with Spark SQL, DataFrames & DataSet
