@@ -51,7 +51,7 @@ Create an object to list the names of all superheroes with only ONE connection
 
 ## [Spark Connection With MySQL](https://github.com/phuongnhhe150172/Spark-Database-Tools-Practice/tree/main/SparkConnectMySql/SparkConnectMySQL)
 ### Objectives:
-* Set up MySQL local by Docker
+Set up MySQL local by Docker
 ### Problem Description:
 #### Set up MySQL
 * Set up MySql by using Docker compose
@@ -62,3 +62,14 @@ Create an object to list the names of all superheroes with only ONE connection
 * Use Spark read from table Transactions
 * Calculating total amount by Country each day then save to Summary table
 * Get the first user transaction the save to FirstUserTransaction table
+
+## [Spark With Kafka](https://github.com/phuongnhhe150172/Spark-Database-Tools-Practice/tree/main/SparkConnectMySql/SparkConnectMySQL)
+### Objectives:
+Set up Kafka locally and write a Spark job consume data from Kafka run on Docker
+### Problem Description:
+#### Set up Kafka
+* Set up Kafka by using Docker compose
+* Creat topic: "NOBEL-PRIZE"
+* Produce data in the file "data/nobel_prize.json" to the topic "NOBEL-PRIZE"
+#### Spark Streaming
+* Write a Spark Streaming job consuming data from topic "NOBEL-PRIZE" and print result each batch
