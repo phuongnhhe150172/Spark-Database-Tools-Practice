@@ -10,7 +10,7 @@ Create an object to list the average friends of each age
 * Calculating each age has total friends and total number of age is equal
 * Calculating average friends of each age
 
-## [Calculate Top1 Ranking Football Of Bundesliga(D1) between 2000-2010](https://github.com/phuongnhhe150172/Spark-Database-Tools-Practice/tree/main/Jupyter/data)
+## [Calculate Top1 Ranking Football Of Bundesliga(D1) between 2000-2010](https://github.com/phuongnhhe150172/Spark-Database-Tools-Practice/blob/main/Jupyter/data/RankingFootball.ipynb)
 ### Objectives:
 This assignment I worked with PySpark by Jupyter Notebook on docker platform
 ### Problem Description:
@@ -25,7 +25,7 @@ This assignment I worked with PySpark by Jupyter Notebook on docker platform
 * Calculating raking of each team on each season by window partition by season and order season "asc"
 * Show top1 ranking football
 
-## Cohort Analysis
+## [Cohort Analysis](https://github.com/phuongnhhe150172/Spark-Database-Tools-Practice/blob/main/Jupyter/data/DailyFristPayment.ipynb)
 ### Objectives:
 This assignment I worked with PySpark by Jupyter Notebook on docker platform
 ### Problem Description:
