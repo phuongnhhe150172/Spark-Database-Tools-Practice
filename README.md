@@ -48,3 +48,17 @@ Create an object to list the names of all superheroes with only ONE connection
 * Filter the connections the find rows with only one connection
 * Join Superheroes with Connections dataset to find result
 * Select the names column and show it
+
+## [Spark Connection With MySQL](https://github.com/phuongnhhe150172/Spark-Database-Tools-Practice/tree/main/SparkConnectMySql/SparkConnectMySQL)
+### Objectives:
+* Set up MySQL local by Docker
+### Problem Description:
+#### Set up MySQL
+* Set up MySql by using Docker compose
+* Access to the MySQL by the command: mysql -u root -p
+#### Spark Connects MySQL
+* Create table Transactions
+* Use Spark read data from "data.csv" and import to the table Transactions
+* Use Spark read from table Transactions
+* Calculating total amount by Country each day then save to Summary table
+* Get the first user transaction the save to FirstUserTransaction table
