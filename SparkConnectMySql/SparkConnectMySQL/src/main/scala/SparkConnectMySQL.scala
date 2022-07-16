@@ -65,7 +65,7 @@ object SparkConnectMySQL {
         .orderBy("Date")
         .cache()
       // Write FirstUserTransactions table into db
-      first_user_transactions.write.jdbc(conString, "FirstUserTransactions", connectionProperties)
+      first_user_transactions.write.jdbc(conString, "FirstUserTransaction", connectionProperties)
     spark.stop()
   }
 }
