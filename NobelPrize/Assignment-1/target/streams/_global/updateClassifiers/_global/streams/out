@@ -1,0 +1,4 @@
+[warn] scala-library-2.12.12-sources.jar no longer exists at C:\Users\PhuongNH\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.12\scala-library-2.12.12-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/E:/My%20Documents/Traning%20For%20Data%20Engineer/Code/Spark-Database-Tools-Practice/NobelPrize/Assignment-1/"), "assignment-1")...
+[debug] Done updating ProjectRef(uri("file:/E:/My%20Documents/Traning%20For%20Data%20Engineer/Code/Spark-Database-Tools-Practice/NobelPrize/Assignment-1/"), "assignment-1")
