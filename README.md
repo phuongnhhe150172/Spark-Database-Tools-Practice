@@ -63,7 +63,7 @@ Set up MySQL local by Docker
 * Calculating total amount by Country each day then save to Summary table
 * Get the first user transaction the save to FirstUserTransaction table
 
-## [Spark With Kafka](https://github.com/phuongnhhe150172/Spark-Database-Tools-Practice/tree/main/SparkConnectMySql/SparkConnectMySQL)
+## [Spark With Kafka](https://github.com/phuongnhhe150172/Spark-Database-Tools-Practice/tree/main/NobelPrize/Assignment-1)
 ### Objectives:
 Set up Kafka locally and write a Spark job consume data from Kafka run on Docker
 ### Problem Description:
